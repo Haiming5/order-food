@@ -1,3 +1,7 @@
+# How to run this app?
+To run the app, you need to fork the repository to your local machine and go to the source folder, run command `npm start`. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
