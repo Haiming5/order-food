@@ -1,0 +1,49 @@
+.item {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px #641e03 solid;
+}
+
+.item-info {
+	display: flex;
+	flex-direction: column;
+}
+
+.item-name {
+	font-weight: bold;
+	font-size: 1.5rem;
+	margin-bottom: 1rem;
+}
+
+.count {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 1.5rem;
+}
+
+.item-price {
+	color: #742404;
+	font-weight: bold;
+	margin-right: 2.5rem;
+}
+
+.item-amount {
+	border: 1px #00000038 solid;
+	padding: 0.1rem 1rem;
+	font-size: 15px;
+}
+
+.actions button {
+	border: 1px #c93f09 solid;
+	padding: 0.2rem 1.5rem;
+	background-color: #af3a0c;
+	font-size: 1.2rem;
+}
+
+.actions button:hover,
+.actions button:active {
+	background-color: #742404;
+	border: 1px #742404 solid;
+}

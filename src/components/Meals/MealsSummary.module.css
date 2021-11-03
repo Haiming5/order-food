@@ -1,0 +1,13 @@
+.summary {
+	box-shadow: 5px 10px 5px rgb(26, 22, 22);
+	padding: 2rem 1.5rem;
+	text-align: center;
+	position: relative;
+	top: -10rem;
+	background-color: rgba(43, 36, 36, 0.952);
+	color: white;
+	border-radius: 20px;
+	width: 90%;
+	max-width: 45rem;
+	margin: auto;
+}
